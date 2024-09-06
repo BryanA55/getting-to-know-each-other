@@ -66,34 +66,34 @@ yourself:
 <body>
     <div class="container">
         <header class="main-info">
-            <h1>Your Name: [Your Full Name]</h1>
-            <p>Preferred Name: [Your Preferred Name]</p>
-            <p>Current/Recent Job Title: [Your Job Title]</p>
+            <h1>Your Name: [Bryan Avalos]</h1>
+            <p>Preferred Name: [Bryan]</p>
+            <p>Current/Recent Job Title: [Amazon DSP Driver]</p>
         </header>
 
         <section class="career">
             <h2>Job Responsibilities</h2>
-            <p>[Summary of your current or most recent job responsibilities]</p>
+            <p>[Deliver packages to customers in a timely manner.]</p>
         </section>
 
         <section class="hobbies">
             <h2>Hobbies and Special Interests</h2>
-            <p>[Your hobbies or special interests]</p>
+            <p>[I like to cook, play videogames, learn about cars, and technology]</p>
         </section>
 
         <section class="career">
             <h2>Reasons for Pursuing This Degree</h2>
-            <p>[Your reasons for pursuing the degree]</p>
+            <p>[I have always been interested in learning about technology my whole life. I think that this degree will further my knowledge with technology.]</p>
         </section>
 
         <section class="course">
             <h2>Reasons for Taking This Course</h2>
-            <p>[Your reasons for taking this course]</p>
+            <p>[Course is a requirement but I am also looking forward to it!]</p>
         </section>
 
         <section class="fun-fact">
             <h2>Fun Fact</h2>
-            <p>[A fun fact about yourself]</p>
+            <p>[I went to Mexico during the summer of 2024.]</p>
         </section>
     </div>
 </body>
